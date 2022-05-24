@@ -1,13 +1,15 @@
-defineGameRules
+# TableGames
 
-defineTaxOnGains
+## defineGameRules
 
-enableAutomaticTransfer
-setFlatExcedentaryFundsExpected
-loosenFundsLock
-triggerEmergencyTransfer
+## defineTaxOnGains
 
-withdrawAll
-withdraw
-doUnpause
-doPause
+## enableAutomaticTransfer
+## setFlatExcedentaryFundsExpected
+## loosenFundsLock
+## triggerEmergencyTransfer
+
+## withdrawAll
+## withdraw
+## doUnpause
+## doPause

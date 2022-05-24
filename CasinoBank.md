@@ -1,7 +1,9 @@
-setMaxChipsPerBet
-setMaxChipsBuyableAtOnce
-emergencyTransferToOwner
-releaseTaxRevenue
-transferTaxGainsTo
-doUnpause
-doPause
+# CasinoBank
+
+## setMaxChipsPerBet
+## setMaxChipsBuyableAtOnce
+## emergencyTransferToOwner
+## releaseTaxRevenue
+## transferTaxGainsTo
+## doUnpause
+## doPause

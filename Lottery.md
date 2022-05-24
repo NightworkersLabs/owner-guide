@@ -1,13 +1,15 @@
-defineTaxOnGains
+# Lottery
 
-enableAutomaticTransfer
-setFlatExcedentaryFundsExpected
-loosenFundsLock
-triggerEmergencyTransfer
+## defineTaxOnGains
 
-doPause
-doUnpause
-defineNextRuleset
+## enableAutomaticTransfer
+## setFlatExcedentaryFundsExpected
+## loosenFundsLock
+## triggerEmergencyTransfer
 
-withdrawAll
-withdraw: withdraw a certain amount to the owner
+## doPause
+## doUnpause
+## defineNextRuleset
+
+## withdrawAll
+## withdraw
