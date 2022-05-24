@@ -12,12 +12,12 @@ Schedule a new round. Can replace a to-be-started round : if it happens, any ETH
 ## cancelRound
 Cancels scheduled rounds. Rounds that already started cannot be cancelled.
 | Parameter | Expected Type | Description|
-|--|--|--|--|
+|--|--|--|
 | *roundIdToCancel_* | `number`  | Which scheduled round to cancel. |
 | *noAutoSkim_* | `0 or 1`  | Defines if we want cancelled round associated rewards to be skimmed in the same transaction.|
 ## skimUnclaimedRewards
 Skims any ETH rewards associated with cancelled rounds, or unclaimed rewards of past rounds.
 
 | Parameter | Expected Type | Description|
-|--|--|--|--|
+|--|--|--|
 |None|
