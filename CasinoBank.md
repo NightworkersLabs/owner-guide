@@ -5,5 +5,6 @@
 ## emergencyTransferToOwner
 ## releaseTaxRevenue
 ## transferTaxGainsTo
+## transferTaxGainsToOwner
 ## doUnpause
 ## doPause
