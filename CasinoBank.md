@@ -10,5 +10,6 @@
 ## transferTaxGainsTo
 ## transferTaxGainsToOwner
 ## airdropChipsTo
+## manyAirdropChips
 ## doUnpause
 ## doPause
