@@ -1,15 +1,14 @@
 # CasinoBank
-
 ## feedBank
 ## updateTaxInBasePoints
 ## setMaxChipsPerBet
-## setValidator
+## setValidator
 ## setMaxChipsBuyableAtOnce
 ## emergencyTransferToOwner
 ## releaseTaxRevenue
 ## transferTaxGainsTo
 ## transferTaxGainsToOwner
-## airdropChipsTo
-## manyAirdropChips
+## airdropChipsTo
+## manyAirdropChips
 ## doUnpause
 ## doPause
